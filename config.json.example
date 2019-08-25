@@ -1,0 +1,7 @@
+{
+    "twitch": {
+        "username": "TwitchChannelName",
+        "token": "oauth:yourOauthTokenGoesHere",
+        "channels": ["TwitchChannelName"]
+    }
+}
